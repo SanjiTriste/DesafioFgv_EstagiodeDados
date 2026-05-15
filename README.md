@@ -8,6 +8,7 @@ A arquitetura foi desenhada para separar as responsabilidades de coleta, tratame
 
 ## Estrutura do Diretório
 
+```text
 DesafioFGV_Estagio/
 ├── dados/
 │   ├── noticias_brutas.json     # Base de dados original
