@@ -5,9 +5,9 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent / "src"))
 
-from limpar_dados import processar_noticias
-from embeddings import gerar_embeddings, carregar_dados
-from buscar_dados import buscar, exibir_resultados, MODELO
+from service.limpar_dados import processar_noticias
+from service.embeddings import gerar_embeddings, carregar_dados
+from service.buscar_dados import buscar, exibir_resultados, MODELO
 from sentence_transformers import SentenceTransformer
 
 BASE = Path(__file__).parent
