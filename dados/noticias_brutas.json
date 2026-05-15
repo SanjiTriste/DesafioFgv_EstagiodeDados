@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "titulo": "Banco Central eleva Selic para conter inflação",
+    "texto": "<p><strong>PUBLICADO EM: 2024-03-01 09:15:32</strong></p><p>O &nbsp;Banco Central do Brasil decidiu elevar a taxa Selic em 0,5 ponto percentual,  levando-a para 13,25% ao ano.   A decisão foi tomada em reunião do Comitê de Política Monetária (Copom) nesta quarta-feira.</p><br/><br/><p>A medida visa  conter  a pressão inflacionária que   persiste acima da meta estabelecida pelo Conselho Monetário Nacional. &nbsp;&nbsp;Analistas de mercado esperavam um ajuste menor, de 0,25 ponto.</p><br/><p>Com a alta, o Brasil volta a ter uma das maiores taxas de juros reais do mundo. &nbsp;A próxima reunião do Copom está prevista para maio.</p>",
+    "data": "2024-03-01",
+    "fonte": "Agência Brasil"
+  },
+  {
+    "id": 2,
+    "titulo": "Desemprego cai pelo terceiro mês consecutivo",
+    "texto": "<!-- metadata: view_count=1523, category=emprego -->\n<p>A taxa de desemprego no Brasil recuou para 7,8% no mês de fevereiro, segundo dados divulgados pelo IBGE nesta sexta-feira. &nbsp;É a terceira queda consecutiva no indicador.</p>\n\n\n<p>O mercado  de trabalho  formal  teve saldo positivo de 180 mil vagas  com  carteira assinada no período,  puxado principalmente pelos setores de servi&ccedil;os  e  com&eacute;rcio.</p><br/><br/><p>Apesar da melhora, &nbsp;economistas alertam que a qualidade dos postos gerados ainda &eacute; uma preocupa&ccedil;&atilde;o, com muitos trabalhadores em regime de tempo parcial ou contrato tempor&aacute;rio.</p>",
+    "data": "2024-03-08",
+    "fonte": "IBGE"
+  },
+  {
+    "id": 3,
+    "titulo": "IPCA de fevereiro fica em 0,83%",
+    "texto": "<p>O &Iacute;ndice de Pre&ccedil;os ao Consumidor Amplo (IPCA) registrou varia&ccedil;&atilde;o de 0,83% em fevereiro,  acima   da expectativa do mercado, que era de 0,72%. &nbsp;&nbsp;No acumulado dos &uacute;ltimos 12 meses, a infla&ccedil;&atilde;o soma 4,62%.</p><br/><br/>\n\n<p>Os grupos de Alimenta&ccedil;&atilde;o &amp; Bebidas e Habita&ccedil;&atilde;o foram os  maiores   respons&aacute;veis pela alta.   &nbsp;O pre&ccedil;o dos alimentos consumidos em casa subiu  1,2%, pressionado pelo tomate e pela carne bovina.</p><br/><p><a href='https://ibge.gov.br'>Veja a nota completa no site do IBGE</a></p>",
+    "data": "2024-03-12",
+    "fonte": "IBGE"
+  },
+  {
+    "id": 4,
+    "titulo": "PIB do quarto trimestre surpreende e cresce 0,4%",
+    "texto": "<p>TIMESTAMP: 1709634000 | SOURCE_ID: eco_004</p><p>A economia brasileira cresceu 0,4%  no &uacute;ltimo trimestre de 2023  em rela&ccedil;&atilde;o ao trimestre anterior, segundo o IBGE.  O resultado veio  acima das estimativas dos analistas, que projetavam expans&atilde;o de 0,2%.</p>\n\n\n<p>O agroneg&oacute;cio  e  o setor de servi&ccedil;os foram os grandes motores do crescimento.  &nbsp;J&aacute; a ind&uacute;stria apresentou  leve  retra&ccedil;&atilde;o.</p><br/><p>No acumulado de 2023, o PIB brasileiro cresceu 2,9%, resultado considerado positivo  dado o cen&aacute;rio internacional  adverso.</p>",
+    "data": "2024-03-01",
+    "fonte": "IBGE"
+  },
+  {
+    "id": 5,
+    "titulo": "Dólar opera em queda após dados americanos",
+    "texto": "<p>O d&oacute;lar caiu frente ao real nesta quinta-feira,   após a divulga&ccedil;&atilde;o de dados de emprego nos Estados Unidos   abaixo do esperado.  A moeda americana fechou o dia cotada a R$ 4,92,  recuo de 0,8%.</p><br/><br/><p>O cen&aacute;rio externo mais favor&aacute;vel abriu espa&ccedil;o para   valoriza&ccedil;&atilde;o de moedas emergentes.  Analistas apontam que &nbsp;&nbsp;um Fed menos hawkish pode beneficiar o Brasil nas pr&oacute;ximas semanas.</p><br/><p>&nbsp;</p>",
+    "data": "2024-03-14",
+    "fonte": "Reuters Brasil"
+  },
+  {
+    "id": 6,
+    "titulo": "Confiança do consumidor recua em março",
+    "texto": "<!-- BEGIN CONTENT -->\n<p>O &Iacute;ndice de Confian&ccedil;a do Consumidor (ICC) medido pela FGV recuou 2,1 pontos em mar&ccedil;o,  para 88,4 pontos.   &Eacute; o segundo  m&ecirc;s   consecutivo de queda.</p><br/>\n\n<p>A piora da percep&ccedil;&atilde;o sobre a situa&ccedil;&atilde;o atual  e  as expectativas  para  os  pr&oacute;ximos meses   contribu&iacute;ram para o recuo.   O componente de inten&ccedil;&atilde;o de compras de bens dur&aacute;veis tamb&eacute;m cedeu.</p><br/><br/><p>Para economistas,  o resultado reflete o impacto do   juro alto no or&ccedil;amento das fam&iacute;lias   e a incerteza sobre o mercado  de  trabalho.</p><!-- END CONTENT -->",
+    "data": "2024-03-20",
+    "fonte": "FGV IBRE"
+  },
+  {
+    "id": 7,
+    "titulo": "Exportações batem recorde no primeiro trimestre",
+    "texto": "<p><em>Atualizado em 2024-03-25 14:30:00</em></p><p>As exporta&ccedil;&otilde;es brasileiras  atingiram US$ 78,3  bilh&otilde;es no primeiro trimestre de 2024,  recorde  hist&oacute;rico  para o per&iacute;odo.  O saldo da balan&ccedil;a comercial foi  positivo em  US$ 21 bilh&otilde;es.</p><br/><p>A soja e o  petr&oacute;leo  foram  os  produtos  mais exportados,   seguidos pela carne  bovina e  pelo min&eacute;rio de ferro.</p><br/><br/><p>A China se manteve como  principal  destino das exporta&ccedil;&otilde;es brasileiras,  respondendo por   28%  do total.</p>",
+    "data": "2024-03-25",
+    "fonte": "Ministério da Economia"
+  },
+  {
+    "id": 8,
+    "titulo": "Reforma tributária avança no Congresso",
+    "texto": "<p>O texto da  regulamenta&ccedil;&atilde;o da reforma  tribut&aacute;ria   avan&ccedil;ou na C&acirc;mara dos Deputados  nesta semana. &nbsp;O projeto prev&ecirc; a cria&ccedil;&atilde;o do IVA dual  e   a unifica&ccedil;&atilde;o de   tributos como   PIS,  Cofins e  ISS.</p>\n\n\n<p>Segundo especialistas,   a reforma pode  reduzir a complexidade do sistema  fiscal  brasileiro  e  aumentar a produtividade  da economia  no   longo  prazo.</p><br/><br/><p>O setor  de  servi&ccedil;os, por&eacute;m, demonstra preocupa&ccedil;&atilde;o com   poss&iacute;vel   aumento  na carga tribut&aacute;ria.</p>",
+    "data": "2024-03-18",
+    "fonte": "Agência Senado"
+  },
+  {
+    "id": 9,
+    "titulo": "Crédito às famílias cresce 8,2% em 12 meses",
+    "texto": "<!-- article_id=9 author=redacao -->\n<p>O saldo  de   cr&eacute;dito   às  fam&iacute;lias  cresceu   8,2%  nos  &uacute;ltimos  12  meses,  segundo  nota  divulgada  pelo Banco Central.  O  estoque  total  chegou  a R$ 3,1 trilh&otilde;es.</p><br/><p>O cr&eacute;dito imobili&aacute;rio  e  o consignado   foram  as  modalidades   que  mais  cresceram.   &nbsp;J&aacute; o  cart&atilde;o  de  cr&eacute;dito rotativo  --   linha mais  cara  do  mercado  --  manteve   inadimpl&ecirc;ncia  elevada.</p><br/><br/><p>A taxa  m&eacute;dia  de  juros  nas  opera&ccedil;&otilde;es  de  cr&eacute;dito  livre   para  pessoas  f&iacute;sicas  ficou  em  52,3%  ao  ano.</p>",
+    "data": "2024-03-22",
+    "fonte": "Banco Central do Brasil"
+  },
+  {
+    "id": 10,
+    "titulo": "Indústria registra queda na produção em fevereiro",
+    "texto": "<p>A produ&ccedil;&atilde;o industrial   recuou  1,5%  em  fevereiro  na  compara&ccedil;&atilde;o  com  janeiro,  segundo  a  Pesquisa  Industrial  Mensal   do  IBGE. &nbsp;Em  12  meses,  o setor  acumula  alta  de  0,8%.</p><br/><br/>\n\n<p>Os  segmentos   de  bens   de  capital  e  bens  de  consumo  dur&aacute;veis  foram  os  mais  afetados.   A  ind&uacute;stria  automotiva  puxou  boa  parte   da  queda.</p><br/><p>Analistas  associam   o  resultado   ao  impacto   do  cr&eacute;dito   mais  restritivo  e  da  demanda  interna   ainda   em  recupera&ccedil;&atilde;o.</p>",
+    "data": "2024-03-13",
+    "fonte": "IBGE"
+  },
+  {
+    "id": 11,
+    "titulo": "Salário mínimo tem reajuste real acima da inflação",
+    "texto": "<p>UPDATED: 2024-02-28 08:00:00 UTC</p><p>O  sal&aacute;rio  m&iacute;nimo  foi  reajustado  para  R$ 1.412  a  partir  de  fevereiro,   representando   ganho  real   de  2,9%   acima  da  infla&ccedil;&atilde;o.   A  alta   deve   impactar  positivamente   o  consumo   das  fam&iacute;lias  de  menor  renda.</p><br/><br/><p>O  novo  valor  tamb&eacute;m   afeta  benef&iacute;cios  previdenci&aacute;rios  vinculados  ao  piso  nacional,  como   aposentadorias   e  aux&iacute;lios.</p><br/><p>&nbsp;&nbsp;&nbsp;</p><p>Economistas   avaliam   que   o   reajuste   pode  contribuir  para   a  press&atilde;o  inflacion&aacute;ria  no  setor  de  servi&ccedil;os.</p>",
+    "data": "2024-02-28",
+    "fonte": "Governo Federal"
+  },
+  {
+    "id": 12,
+    "titulo": "Agronegócio puxa crescimento do PIB em 2023",
+    "texto": "<!-- nav: home > economia > agro -->\n<p>O  agroneg&oacute;cio  foi  o  setor  que  mais   contribuiu   para  o  crescimento  do  PIB  brasileiro  em  2023,  com  expans&atilde;o  de  15,1%.  A   safra  recorde  de  gr&atilde;os  e   a  forte  demanda  externa  explicam  o  desempenho  excepcional.</p><br/><p>O  Brasil  consolidou  sua  posi&ccedil;&atilde;o  como  maior  exportador  mundial   de  soja,  carne  bovina,  frango  e  a&ccedil;&uacute;car.</p><br/><br/><p>Para  2024,   analistas  esperam   desempenho  mais  modesto   do  setor,  diante  do   fen&ocirc;meno  El  Ni&ntilde;o   e   da  normaliza&ccedil;&atilde;o  dos  pre&ccedil;os  internacionais  de  commodities.</p>",
+    "data": "2024-03-01",
+    "fonte": "CNA"
+  },
+  {
+    "id": 13,
+    "titulo": "Resultado fiscal do governo central tem déficit de R$ 11 bi",
+    "texto": "<p>O   governo  central   registrou   d&eacute;ficit  prim&aacute;rio   de  R$ 11  bilh&otilde;es  em  fevereiro,  segundo   dados  do   Tesouro  Nacional.   O  resultado  foi  pior   que  o  esperado   pelo  mercado.</p><br/><br/>\n\n<p>A  arrecada&ccedil;&atilde;o  federal  cresceu  8%   no   per&iacute;odo,  mas   n&atilde;o  foi  suficiente  para  compensar  o  crescimento  das  despesas.   O  governo  busca   atingir  a  meta  fiscal  de  d&eacute;ficit  zero   para  2024.</p><br/><p>Economistas  alertam  que  o   cumprimento  da  meta   depender&aacute;   de  uma  combina&ccedil;&atilde;o  de  maior  arrecada&ccedil;&atilde;o  e   controle  de   gastos.</p>",
+    "data": "2024-03-29",
+    "fonte": "Tesouro Nacional"
+  },
+  {
+    "id": 14,
+    "titulo": "Mercado imobiliário aquece nas grandes cidades",
+    "texto": "<p>O   n&uacute;mero   de  lan&ccedil;amentos  imobili&aacute;rios  cresceu   22%  nas   principais  capitais  brasileiras  no  primeiro  trimestre  de  2024,  segundo  dados  da  ABRAINC.   S&atilde;o  Paulo  e  Rio  de  Janeiro  lideram  o  movimento.</p><br/><p>O   Programa   Minha  Casa  Minha  Vida   continua   sendo  o  principal  motor   do  setor  na  faixa   de  renda  mais  baixa.   &nbsp;J&aacute;  no  segmento  de  alto  padr&atilde;o,  a  demanda  de  investidores   tamb&eacute;m  &eacute;  apontada   como  fator   de  aquecimento.</p><br/><br/><p>A  taxa   de  juros   elevada,  por&eacute;m,   pesa   sobre  o   custo  do  financiamento   para   a  classe  m&eacute;dia.</p>",
+    "data": "2024-03-27",
+    "fonte": "ABRAINC"
+  },
+  {
+    "id": 15,
+    "titulo": "Brasil atrai investimentos estrangeiros diretos",
+    "texto": "<!-- GENERATED: 2024-03-10T10:00:00Z -->\n<p>O   Brasil   captou   US$ 12,3  bilh&otilde;es   em   Investimentos   Estrangeiros   Diretos   (IED)   no  primeiro  bimestre  de  2024,   volume   18%  superior   ao   mesmo   per&iacute;odo  do  ano   anterior.</p><br/><br/><p>Os  setores  de  infraestrutura,  energia  renov&aacute;vel   e  agroneg&oacute;cio   foram  os   mais   atraentes   para  o   capital  estrangeiro.   A  estabilidade  pol&iacute;tica   relativa  e   o   potencial   do   mercado  interno   s&atilde;o  citados   como  diferenciais.</p><br/><p>&nbsp;</p>",
+    "data": "2024-03-10",
+    "fonte": "Banco Central do Brasil"
+  },
+  {
+    "id": 16,
+    "titulo": "Petrobras anuncia dividendos bilionários",
+    "texto": "<p>A   Petrobras   anunciou   distribuição   de   dividendos   de   R$ 72,4  bilh&otilde;es   referentes  ao  exerc&iacute;cio  de  2023.   O   valor   &eacute;   o   maior   da   hist&oacute;ria   da   empresa   e   um   dos   maiores   entre   companhias   listadas   na   bolsa   brasileira.</p><br/><br/>\n\n<p>As   a&ccedil;&otilde;es   da   estatal   avan&ccedil;aram   3,2%   na   B3   após   o   anúncio.   O  governo   federal,   como   maior   acionista,   deve   receber   cerca   de   R$ 36   bilh&otilde;es.</p>",
+    "data": "2024-03-21",
+    "fonte": "Petrobras"
+  },
+  {
+    "id": 17,
+    "titulo": "Cesta básica fica mais cara em fevereiro",
+    "texto": "<p>O  pre&ccedil;o   da   cesta   b&aacute;sica   subiu   em  16   das  17   capitais   pesquisadas   pelo  DIEESE  em   fevereiro.   Em   S&atilde;o   Paulo,   o   custo   m&eacute;dio   chegou   a   R$ 762,   alta   de   3,1%   no   m&ecirc;s.</p><br/><p>O   feij&atilde;o,   o   tomate   e   o  &oacute;leo   de   soja   foram   os   itens   que   mais   encareceram.   A   press&atilde;o   sobre  os   alimentos  reflete   a&ccedil;&atilde;o   de   fatores   clim&aacute;ticos   e   cambiais.</p><br/><br/><p>O   instituto   alerta   que   o   trabalhador   que   ganha   um   sal&aacute;rio   m&iacute;nimo   comprometeria   54%  dos   rendimentos   apenas   com   alimenta&ccedil;&atilde;o   b&aacute;sica.</p>",
+    "data": "2024-03-05",
+    "fonte": "DIEESE"
+  },
+  {
+    "id": 18,
+    "titulo": "Nota curta",
+    "texto": "<p>&nbsp;</p>",
+    "data": "2024-03-15",
+    "fonte": "Desconhecida"
+  },
+  {
+    "id": 19,
+    "titulo": "Energia elétrica tem reajuste aprovado pela Aneel",
+    "texto": "<p>A   Aneel   aprovou   reajuste   m&eacute;dio   de   6,7%   nas   tarifas   de   energia   el&eacute;trica   para   consumidores   residenciais   em   doze   distribuidoras   do   pa&iacute;s.   O   novo   valor   entra   em   vig&ecirc;ncia   em   abril.</p><br/><br/><!-- last_modified: 2024-03-19 --><p>O  reajuste   afeta   diretamente  o   grupo  Habita&ccedil;&atilde;o   do   IPCA,   pressionando  a   infla&ccedil;&atilde;o   ao   consumidor   nos   pr&oacute;ximos  meses.   Economistas   j&aacute;   revisam   suas   projeções   para   o   &iacute;ndice.</p><br/><p>A   bandeira   tarifária   permanece   em   verde   por   ora,   mas   pode   mudar   caso   os   reservat&oacute;rios   das   hidrel&eacute;tricas   recuem.</p>",
+    "data": "2024-03-19",
+    "fonte": "Aneel"
+  },
+  {
+    "id": 20,
+    "titulo": "Vendas do varejo surpreendem em janeiro",
+    "texto": "<p>SOURCE: varejo_monitor | ts=1706745600</p><p>O   volume   de  vendas   do   com&eacute;rcio   varejista   cresceu   2,6%   em   janeiro   na   compara&ccedil;&atilde;o   com  dezembro,   segundo   a   Pesquisa   Mensal   de   Com&eacute;rcio   do   IBGE.   O   resultado   superou   as   estimativas   do   mercado.</p><br/><br/><p>Os   segmentos   de   artigos   farmac&ecirc;uticos,   equipamentos  e  materiais   para   escrit&oacute;rio   e   tecidos   e   vestu&aacute;rio   puxaram   o   desempenho   positivo.</p><br/><p>Na   compara&ccedil;&atilde;o  anual,   o   varejo   acumula   alta   de   4,3%,   sinal   de   resili&ecirc;ncia   do   consumo   interno   mesmo   com   juro   elevado.</p>",
+    "data": "2024-03-14",
+    "fonte": "IBGE"
+  }
+]

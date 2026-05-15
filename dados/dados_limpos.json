@@ -1,0 +1,135 @@
+[
+  {
+    "id": 1,
+    "titulo": "Banco Central eleva Selic para conter inflação",
+    "texto_limpo": "O Banco Central do Brasil decidiu elevar a taxa Selic em 0,5 ponto percentual, levando-a para 13,25% ao ano. A decisão foi tomada em reunião do Comitê de Política Monetária (Copom) nesta quarta-feira. A medida visa conter a pressão inflacionária que persiste acima da meta estabelecida pelo Conselho Monetário Nacional. Analistas de mercado esperavam um ajuste menor, de 0,25 ponto. Com a alta, o Brasil volta a ter uma das maiores taxas de juros reais do mundo. A próxima reunião do Copom está prevista para maio.",
+    "data": "2024-03-01",
+    "fonte": "Agência Brasil"
+  },
+  {
+    "id": 2,
+    "titulo": "Desemprego cai pelo terceiro mês consecutivo",
+    "texto_limpo": "A taxa de desemprego no Brasil recuou para 7,8% no mês de fevereiro, segundo dados divulgados pelo IBGE nesta sexta-feira. É a terceira queda consecutiva no indicador. O mercado de trabalho formal teve saldo positivo de 180 mil vagas com carteira assinada no período, puxado principalmente pelos setores de serviços e comércio. Apesar da melhora, economistas alertam que a qualidade dos postos gerados ainda é uma preocupação, com muitos trabalhadores em regime de tempo parcial ou contrato temporário.",
+    "data": "2024-03-08",
+    "fonte": "IBGE"
+  },
+  {
+    "id": 3,
+    "titulo": "IPCA de fevereiro fica em 0,83%",
+    "texto_limpo": "O Índice de Preços ao Consumidor Amplo (IPCA) registrou variação de 0,83% em fevereiro, acima da expectativa do mercado, que era de 0,72%. No acumulado dos últimos 12 meses, a inflação soma 4,62%. Os grupos de Alimentação & Bebidas e Habitação foram os maiores responsáveis pela alta. O preço dos alimentos consumidos em casa subiu 1,2%, pressionado pelo tomate e pela carne bovina. Veja a nota completa no site do IBGE",
+    "data": "2024-03-12",
+    "fonte": "IBGE"
+  },
+  {
+    "id": 4,
+    "titulo": "PIB do quarto trimestre surpreende e cresce 0,4%",
+    "texto_limpo": "A economia brasileira cresceu 0,4% no último trimestre de 2023 em relação ao trimestre anterior, segundo o IBGE. O resultado veio acima das estimativas dos analistas, que projetavam expansão de 0,2%. O agronegócio e o setor de serviços foram os grandes motores do crescimento. Já a indústria apresentou leve retração. No acumulado de 2023, o PIB brasileiro cresceu 2,9%, resultado considerado positivo dado o cenário internacional adverso.",
+    "data": "2024-03-01",
+    "fonte": "IBGE"
+  },
+  {
+    "id": 5,
+    "titulo": "Dólar opera em queda após dados americanos",
+    "texto_limpo": "O dólar caiu frente ao real nesta quinta-feira, após a divulgação de dados de emprego nos Estados Unidos abaixo do esperado. A moeda americana fechou o dia cotada a R$ 4,92, recuo de 0,8%. O cenário externo mais favorável abriu espaço para valorização de moedas emergentes. Analistas apontam que um Fed menos hawkish pode beneficiar o Brasil nas próximas semanas.",
+    "data": "2024-03-14",
+    "fonte": "Reuters Brasil"
+  },
+  {
+    "id": 6,
+    "titulo": "Confiança do consumidor recua em março",
+    "texto_limpo": "O Índice de Confiança do Consumidor (ICC) medido pela FGV recuou 2,1 pontos em março, para 88,4 pontos. É o segundo mês consecutivo de queda. A piora da percepção sobre a situação atual e as expectativas para os próximos meses contribuíram para o recuo. O componente de intenção de compras de bens duráveis também cedeu. Para economistas, o resultado reflete o impacto do juro alto no orçamento das famílias e a incerteza sobre o mercado de trabalho.",
+    "data": "2024-03-20",
+    "fonte": "FGV IBRE"
+  },
+  {
+    "id": 7,
+    "titulo": "Exportações batem recorde no primeiro trimestre",
+    "texto_limpo": "As exportações brasileiras atingiram US$ 78,3 bilhões no primeiro trimestre de 2024, recorde histórico para o período. O saldo da balança comercial foi positivo em US$ 21 bilhões. A soja e o petróleo foram os produtos mais exportados, seguidos pela carne bovina e pelo minério de ferro. A China se manteve como principal destino das exportações brasileiras, respondendo por 28% do total.",
+    "data": "2024-03-25",
+    "fonte": "Ministério da Economia"
+  },
+  {
+    "id": 8,
+    "titulo": "Reforma tributária avança no Congresso",
+    "texto_limpo": "O texto da regulamentação da reforma tributária avançou na Câmara dos Deputados nesta semana. O projeto prevê a criação do IVA dual e a unificação de tributos como PIS, Cofins e ISS. Segundo especialistas, a reforma pode reduzir a complexidade do sistema fiscal brasileiro e aumentar a produtividade da economia no longo prazo. O setor de serviços, porém, demonstra preocupação com possível aumento na carga tributária.",
+    "data": "2024-03-18",
+    "fonte": "Agência Senado"
+  },
+  {
+    "id": 9,
+    "titulo": "Crédito às famílias cresce 8,2% em 12 meses",
+    "texto_limpo": "O saldo de crédito às famílias cresceu 8,2% nos últimos 12 meses, segundo nota divulgada pelo Banco Central. O estoque total chegou a R$ 3,1 trilhões. O crédito imobiliário e o consignado foram as modalidades que mais cresceram. Já o cartão de crédito rotativo -- linha mais cara do mercado -- manteve inadimplência elevada. A taxa média de juros nas operações de crédito livre para pessoas físicas ficou em 52,3% ao ano.",
+    "data": "2024-03-22",
+    "fonte": "Banco Central do Brasil"
+  },
+  {
+    "id": 10,
+    "titulo": "Indústria registra queda na produção em fevereiro",
+    "texto_limpo": "A produção industrial recuou 1,5% em fevereiro na comparação com janeiro, segundo a Pesquisa Industrial Mensal do IBGE. Em 12 meses, o setor acumula alta de 0,8%. Os segmentos de bens de capital e bens de consumo duráveis foram os mais afetados. A indústria automotiva puxou boa parte da queda. Analistas associam o resultado ao impacto do crédito mais restritivo e da demanda interna ainda em recuperação.",
+    "data": "2024-03-13",
+    "fonte": "IBGE"
+  },
+  {
+    "id": 11,
+    "titulo": "Salário mínimo tem reajuste real acima da inflação",
+    "texto_limpo": "O salário mínimo foi reajustado para R$ 1.412 a partir de fevereiro, representando ganho real de 2,9% acima da inflação. A alta deve impactar positivamente o consumo das famílias de menor renda. O novo valor também afeta benefícios previdenciários vinculados ao piso nacional, como aposentadorias e auxílios. Economistas avaliam que o reajuste pode contribuir para a pressão inflacionária no setor de serviços.",
+    "data": "2024-02-28",
+    "fonte": "Governo Federal"
+  },
+  {
+    "id": 12,
+    "titulo": "Agronegócio puxa crescimento do PIB em 2023",
+    "texto_limpo": "O agronegócio foi o setor que mais contribuiu para o crescimento do PIB brasileiro em 2023, com expansão de 15,1%. A safra recorde de grãos e a forte demanda externa explicam o desempenho excepcional. O Brasil consolidou sua posição como maior exportador mundial de soja, carne bovina, frango e açúcar. Para 2024, analistas esperam desempenho mais modesto do setor, diante do fenômeno El Niño e da normalização dos preços internacionais de commodities.",
+    "data": "2024-03-01",
+    "fonte": "CNA"
+  },
+  {
+    "id": 13,
+    "titulo": "Resultado fiscal do governo central tem déficit de R$ 11 bi",
+    "texto_limpo": "O governo central registrou déficit primário de R$ 11 bilhões em fevereiro, segundo dados do Tesouro Nacional. O resultado foi pior que o esperado pelo mercado. A arrecadação federal cresceu 8% no período, mas não foi suficiente para compensar o crescimento das despesas. O governo busca atingir a meta fiscal de déficit zero para 2024. Economistas alertam que o cumprimento da meta dependerá de uma combinação de maior arrecadação e controle de gastos.",
+    "data": "2024-03-29",
+    "fonte": "Tesouro Nacional"
+  },
+  {
+    "id": 14,
+    "titulo": "Mercado imobiliário aquece nas grandes cidades",
+    "texto_limpo": "O número de lançamentos imobiliários cresceu 22% nas principais capitais brasileiras no primeiro trimestre de 2024, segundo dados da ABRAINC. São Paulo e Rio de Janeiro lideram o movimento. O Programa Minha Casa Minha Vida continua sendo o principal motor do setor na faixa de renda mais baixa. Já no segmento de alto padrão, a demanda de investidores também é apontada como fator de aquecimento. A taxa de juros elevada, porém, pesa sobre o custo do financiamento para a classe média.",
+    "data": "2024-03-27",
+    "fonte": "ABRAINC"
+  },
+  {
+    "id": 15,
+    "titulo": "Brasil atrai investimentos estrangeiros diretos",
+    "texto_limpo": "O Brasil captou US$ 12,3 bilhões em Investimentos Estrangeiros Diretos (IED) no primeiro bimestre de 2024, volume 18% superior ao mesmo período do ano anterior. Os setores de infraestrutura, energia renovável e agronegócio foram os mais atraentes para o capital estrangeiro. A estabilidade política relativa e o potencial do mercado interno são citados como diferenciais.",
+    "data": "2024-03-10",
+    "fonte": "Banco Central do Brasil"
+  },
+  {
+    "id": 16,
+    "titulo": "Petrobras anuncia dividendos bilionários",
+    "texto_limpo": "A Petrobras anunciou distribuição de dividendos de R$ 72,4 bilhões referentes ao exercício de 2023. O valor é o maior da história da empresa e um dos maiores entre companhias listadas na bolsa brasileira. As ações da estatal avançaram 3,2% na B3 após o anúncio. O governo federal, como maior acionista, deve receber cerca de R$ 36 bilhões.",
+    "data": "2024-03-21",
+    "fonte": "Petrobras"
+  },
+  {
+    "id": 17,
+    "titulo": "Cesta básica fica mais cara em fevereiro",
+    "texto_limpo": "O preço da cesta básica subiu em 16 das 17 capitais pesquisadas pelo DIEESE em fevereiro. Em São Paulo, o custo médio chegou a R$ 762, alta de 3,1% no mês. O feijão, o tomate e o óleo de soja foram os itens que mais encareceram. A pressão sobre os alimentos reflete ação de fatores climáticos e cambiais. O instituto alerta que o trabalhador que ganha um salário mínimo comprometeria 54% dos rendimentos apenas com alimentação básica.",
+    "data": "2024-03-05",
+    "fonte": "DIEESE"
+  },
+  {
+    "id": 19,
+    "titulo": "Energia elétrica tem reajuste aprovado pela Aneel",
+    "texto_limpo": "A Aneel aprovou reajuste médio de 6,7% nas tarifas de energia elétrica para consumidores residenciais em doze distribuidoras do país. O novo valor entra em vigência em abril. O reajuste afeta diretamente o grupo Habitação do IPCA, pressionando a inflação ao consumidor nos próximos meses. Economistas já revisam suas projeções para o índice. A bandeira tarifária permanece em verde por ora, mas pode mudar caso os reservatórios das hidrelétricas recuem.",
+    "data": "2024-03-19",
+    "fonte": "Aneel"
+  },
+  {
+    "id": 20,
+    "titulo": "Vendas do varejo surpreendem em janeiro",
+    "texto_limpo": "O volume de vendas do comércio varejista cresceu 2,6% em janeiro na comparação com dezembro, segundo a Pesquisa Mensal de Comércio do IBGE. O resultado superou as estimativas do mercado. Os segmentos de artigos farmacêuticos, equipamentos e materiais para escritório e tecidos e vestuário puxaram o desempenho positivo. Na comparação anual, o varejo acumula alta de 4,3%, sinal de resiliência do consumo interno mesmo com juro elevado.",
+    "data": "2024-03-14",
+    "fonte": "IBGE"
+  }
+]
